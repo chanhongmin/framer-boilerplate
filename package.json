@@ -7,9 +7,6 @@
     "url": "git://github.com/jchavarri/framer-boilerplate.git"
   },
   "main": "app.js",
-  "dependencies": {
-    "framerjs-prebuilt": "git+https://github.com/jchavarri/framerjs-prebuilt.git#master"
-  },
   "devDependencies": {
     "browserify": "^11.0.1",
     "coffeeify": "^1.1.0",
